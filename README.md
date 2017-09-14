@@ -1,2 +1,1 @@
-# AkhilPodugu
-Vertical Partitioning
+# Akhilpodugu
